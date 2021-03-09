@@ -185,7 +185,7 @@ A naming convention is a set of rules for choosing the character sequence to be 
     Example:
      - helloWorld
      - newbieDictionary
- - Pascal Case: Making the first letter of each word capitalized. Often used when writing code to name functions, classes, and other objects.
+ - PascalCase: Making the first letter of each word capitalized. Often used when writing code to name functions, classes, and other objects.
     Example:
      - Car
      - LinkedList
@@ -219,7 +219,7 @@ The presentation layer of a website is the “head” of a CMS, we are separatin
 ### HTTP -
 HTTP or Hypertext Transfer Protocol is the set of guidelines for transferring files such as texts, videos, sounds, images, and other multimedia files through the World Wide Web. The moment a Web user opens the browser, the user is indirectly making use of HTTP.
 
-### HTTP Status Codes
+### HTTP Status Codes -
 HTTP Status codes are part of the response data returned by an HTTP request, which signals to the client about the result in a way that is easy for code to understand. Common status codes include:
 
 - **200** - OK. This is the status response for a successful request. When you visit a webpage, and the webpage loads fine, this is the response.
@@ -230,7 +230,7 @@ HTTP Status codes are part of the response data returned by an HTTP request, whi
 
 A full list and detailed explanation of each status can be found [here](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes).
 
-### HTTPS
+### HTTPS -
 Stands for “Hypertext Transfer Protocol Secure” which means the webpage has a special layer of encryption added to hide your personal details and passwords. Hence, if you wish to secure your bank account details at an online shopping site, look for “https” in the URL.
 
 ### Integer -
@@ -251,7 +251,7 @@ Stands for JavaScript Object Notation. JSON is a common data format (a way data 
 ### Kernel -
 A piece of software running as a communicator between regular software and hardware, containing all the lower-level functions to talk to the hardware and providing an API for the software to modify the state of hardware interfaces securely. Example - The Linux Kernel
 
-### Key-Value Pairs
+### Key-Value Pairs -
 
 Key-value pairs let us give labels (or keys) to pieces of information (or values). We can use the labels to retrieve that information later on. They are also called attribute-value pairs. The key is like an index, but can be a more sensible way to name a piece of information than by its position. We can add key-value pairs to data structures like objects (e.g. in JavaScript), or dictionaries (in Python). Pair a key with its value by using a colon between them. Separate each complete pair with a comma when entering them. E.g. `{keyA: valueA, keyB: valueB, keyC: valueC}` contains three key-value pairs.
 
@@ -265,7 +265,7 @@ _“You can access it locally”_
 For the opposite of Local, see [Remote](#remote--)
 
 ### Manipulating the DOM -
-Just means changing something (usually JavaScript) in the DOM.
+Just means changing something (usually using JavaScript) in the DOM.
 
 ### Machine Learning -
 A realm of study within the domain of artificial intelligence that aims to develop techniques in software which allow machines to learn through experience.
